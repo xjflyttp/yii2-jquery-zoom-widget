@@ -11,7 +11,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "bower-asset/jquery-zoom": "~1.0.0"
+        "bower-asset/jquery-zoom": "*"
     },
     "autoload": {
         "psr-4": {
